@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 2e7e6aa57950fed40b91f2172244c220
   - enabled: 1
-    path: Assets/Scenes/Beach.unity
-    guid: 03855407d50e02043969565b02c1e39a
+    path: Assets/Scenes/Arctic.unity
+    guid: c3004eb7451661d478f5ce7c0b946f3c
   - enabled: 1
     path: Assets/Scenes/Forest.unity
     guid: 263dc8598f129a74185849ed02c8cea0
   - enabled: 1
-    path: Assets/Scenes/Snow.unity
-    guid: c3004eb7451661d478f5ce7c0b946f3c
+    path: Assets/Scenes/Garage.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
